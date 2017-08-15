@@ -1,3 +1,8 @@
+<!-- 
+Author: Satya Prakash, CSE, IIT Guwahati
+Project: Simple Chat Page
+ -->
+
 <!DOCTYPE html>
 <html>
 <head>

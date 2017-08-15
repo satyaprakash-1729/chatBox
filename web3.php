@@ -1,3 +1,7 @@
+<!-- 
+Author: Satya Prakash, CSE, IIT Guwahati
+Project: Simple Chat Page
+ -->
 <?php
 
 $name=$roll=$discipline=$email=$operation="";

@@ -1,3 +1,7 @@
+<!-- 
+Author: Satya Prakash, CSE, IIT Guwahati
+Project: Simple Chat Page
+ -->
 <?php
                 if(isset($_GET["userId"]) && isset($_GET["email"])){
                     $userId = $_GET["userId"];

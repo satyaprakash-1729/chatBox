@@ -1,3 +1,7 @@
+<!-- 
+Author: Satya Prakash, CSE, IIT Guwahati
+Project: Simple Chat Page
+ -->
 <?php
     $cookie_name = "userChatDB";
         //echo var_dump($_COOKIE);

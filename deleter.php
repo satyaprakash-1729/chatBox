@@ -1,3 +1,7 @@
+<!-- 
+Author: Satya Prakash, CSE, IIT Guwahati
+Project: Simple Chat Page
+ -->
 <?php
     //debug_to_console("Herer");
     if(isset($_GET["filename"]) && isset($_GET["userId"])){

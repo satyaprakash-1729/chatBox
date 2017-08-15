@@ -1,3 +1,7 @@
+<!-- 
+Author: Satya Prakash, CSE, IIT Guwahati
+Project: Simple Chat Page
+ -->
 <?php
 $emailMsg = $passMsg = $message = "";
 if($_SERVER["REQUEST_METHOD"] == "POST"){
